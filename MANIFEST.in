@@ -1,2 +1,4 @@
 include README.md
 recursive-include tests *.py
+recursive-include gmssl/libsm3 *.so
+recursive-include gmssl/libsm3 *.dll
